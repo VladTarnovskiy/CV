@@ -1,1 +1,1 @@
-https://VladTarnovskiy.github.io/cv/
+https://vladtarnovskiy.github.io/CV/
