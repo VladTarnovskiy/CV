@@ -302,18 +302,12 @@ main li {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  /* color: var(--ligth-gray-color); */
-  /* border-bottom: 2px solid var(--ligth-gray-color); */
 }
 
 .right-column img {
   vertical-align: middle;
   margin-right: 15px;
 }
-
-/* .right-column p {
-  color: var(--ligth-gray-color);
-} */
 
 .work-list p {
   margin-left: 45px;
@@ -382,7 +376,7 @@ strong {
   margin-left: 45px;
 }
 
-.work__place {
+.work__place strong {
   text-transform: uppercase;
 }
 
@@ -393,17 +387,6 @@ list .work__kind {
 .work-duties {
   flex: 0 1 70%;
 }
-
-/* .functional-expertise {
-  list-style-type: disc;
-  font-size: 16px;
-  margin-left: 60px;
-}
-
-.functional-expertise strong {
-  font-weight: bold;
-  font-size: 17px;
-} */
 
 .profile-expertise-title {
   text-align: center;
