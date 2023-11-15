@@ -1,2 +1,2 @@
-Github: https://vladtarnovskiy.github.io/CV/
-Netlify: https://vladtarnovskiy.github.io/CV/
+- Github: https://vladtarnovskiy.github.io/CV/
+- Netlify: https://vladtarnovskiy.github.io/CV/
