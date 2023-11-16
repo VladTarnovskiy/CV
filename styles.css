@@ -384,10 +384,6 @@ strong {
   text-transform: uppercase;
 }
 
-list .work__kind {
-  text-transform: none;
-}
-
 .work-duties {
   flex: 0 1 70%;
 }
